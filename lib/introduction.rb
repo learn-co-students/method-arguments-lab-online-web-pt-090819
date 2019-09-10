@@ -1,5 +1,5 @@
+# lib/introduction.rb
 
-
-def introduction (name)
-  puts "Hi, my name is #{josh}." and "I am learning to program in#{language}."
+def introduction (Josh)
+  puts "Hi, my name is #{Josh}."
 end
